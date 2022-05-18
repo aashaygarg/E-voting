@@ -46,7 +46,7 @@ Step 2 - Creating Voting Smart Contract
 npm install solc
 ```
 
-Replace your aadhaar no and phone number for running project at https://github.com/sanattaori/techdot/blob/7814403250f8b042992c6d437d9f9db8f98f3729/ui/js/app.js#L39
+Replace your aadhaar no and phone number for running project at https://github.com/aashaygarg/E-voting/blob/7814403250f8b042992c6d437d9f9db8f98f3729/ui/js/app.js#L39
 
 Step 3 - Testing in node console
 
@@ -97,7 +97,7 @@ $ ganache-cli
 ```
 Paste this adderess to 
 ui/js/clist.js line 17
-https://github.com/sanattaori/techdot/blob/cecabc1917965ed7404e4c444b7572c97e10dcf9/ui/js/clist.js#L17
+https://github.com/aashaygarg/E-voting/blob/cecabc1917965ed7404e4c444b7572c97e10dcf9/ui/js/clist.js#L17
 
 
 ### Purpose of test
@@ -107,12 +107,12 @@ https://github.com/sanattaori/techdot/blob/cecabc1917965ed7404e4c444b7572c97e10d
  * button disabling and automatic logout is to prevent multiple voting by single candidate. 
 
 ### Screenshots
-* ![](https://raw.githubusercontent.com/sanattaori/techdot/master/screenshot/1.PNG)
-* ![](https://raw.githubusercontent.com/sanattaori/techdot/master/screenshot/2.PNG)
-* ![](https://raw.githubusercontent.com/sanattaori/techdot/master/screenshot/3.PNG)
-* ![](https://raw.githubusercontent.com/sanattaori/techdot/master/screenshot/4.PNG)
-* ![](https://raw.githubusercontent.com/sanattaori/techdot/master/screenshot/5.PNG)
-* ![](https://raw.githubusercontent.com/sanattaori/techdot/master/screenshot/gan.PNG)
+* ![](https://raw.githubusercontent.com/aashaygarg/E-voting/master/screenshot/1.PNG)
+* ![](https://raw.githubusercontent.com/aashaygarg/E-voting/master/screenshot/2.PNG)
+* ![](https://raw.githubusercontent.com/aashaygarg/E-voting/master/screenshot/3.PNG)
+* ![](https://raw.githubusercontent.com/aashaygarg/E-voting/master/screenshot/4.PNG)
+* ![](https://raw.githubusercontent.com/aashaygarg/E-voting/master/screenshot/5.PNG)
+* ![](https://raw.githubusercontent.com/aashaygarg/E-voting/master/screenshot/gan.PNG)
 
 ## Deployment
 
