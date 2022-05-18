@@ -1,6 +1,5 @@
 # Aadhaar Voting
 Aadhaar Based voting system using blockchain technology
-Project implemented as part of Rajasthan Hackathron
 
 ## Description
 
@@ -16,7 +15,7 @@ Project implemented as part of Rajasthan Hackathron
 
 Clone Project
 ```
-git clone git@github.com:sanattaori/techdot.git && cd techdot
+git clone git@github.com:aashaygarg/E-voting.git && cd E-voting
 ```
 Install Dependencies
 ```
@@ -123,7 +122,3 @@ user interface and high security.
 ## Authors
 
 * **Aashay Garg**
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
